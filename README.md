@@ -1,3 +1,7 @@
+## Deprecation Notice
+This repository has been deprecated and is not being maintained. It should not be used. If you have any questions, please get in touch with the collaborators.
+
+## About this Project
 This repo contains the legacy implementation of $fh.sec for FeedHenry Rhino apps.
 
 To use, just drop sec.js file in the app and reference it in the app.
